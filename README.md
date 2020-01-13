@@ -2,7 +2,7 @@
 
 A repository containing a sample of my data science projects.
 
-Each project is a Jupyter notebook. <b>For a superior viewing experience</b>, consider following the links in this README rather than clicking on the files in the repo directly. The former will take you to Jupyter's excellent nbviewer, while the latter will render the notebook directly in github (often buggy).
+Each project is a Jupyter notebook. <b>For a more aesthetically pleasing experience</b>, consider following the links in this README rather than clicking on the files in the repo directly. The former will take you to Jupyter's excellent nbviewer, while the latter will render the notebook directly in github.
 
 ## Projects
 
