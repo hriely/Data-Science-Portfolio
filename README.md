@@ -6,6 +6,8 @@ Each project is a Jupyter notebook. <b>For a more aesthetically pleasing experie
 
 ## Projects
 
+- <a href='https://nbviewer.jupyter.org/github/hriely/Data-Science-Portfolio/blob/master/Customer%20Segmentation%20Via%20RFM%20and%20Clustering.ipynb'>Customer Segmentation Via RFM and Clustering</a>: Computed RFM (recency, frequency, monetary value) score for each customer using online retail records. Constructed customer segments using DBSCAN and k-means clustering, comparing their performance.
+
 - <a href='https://nbviewer.jupyter.org/github/hriely/Data-Science-Portfolio/blob/master/Costa%20Rican%20Household%20Poverty%20Level%20Prediction.ipynb'>Costa Rican Household Povety Level Prediction</a>: Trained and tuned supervised learning algorithms to classify Costa Rican households by level of financial need. Kaggle competition hosted by Inter-American Development Bank. The data was very messy, so brace yourself for some hardcore cleaning!
 
 - <a href='https://nbviewer.jupyter.org/github/hriely/Data-Science-Portfolio/blob/master/Fish%20Market%20Classification.ipynb'>Fish Market Classification</a>: Used labeled fish market dataset to evaluate the performance of sklearn’s clustering algorithms. Gaussian mixture model prevailed over k-means, DBSCAN, and agglomerative clustering in separating species. For evaluation, used dimensionality reduction techniques (PCA, t-SNE, UMAP) to construct 2D visualizations. Also compared unlabeled clustering score (silhouette) to labeled (adjusted Rand Index).
